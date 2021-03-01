@@ -18,6 +18,4 @@ public class MainActivity extends AppCompatActivity {
     /*This is the first Nazanin Commnet*/
 
     /*This is my second Commit*/
-
-    //Taban's commit
 }
